@@ -1,0 +1,10 @@
+body{
+    font: 12pt Arial;
+}
+h1, h2, h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+button{
+    font-size: 12pt;
+    padding: 30px;
+}
